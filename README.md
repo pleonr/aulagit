@@ -1,2 +1,2 @@
 # aulagit
-Repositório contendo código feito em aula
+Repositório template de projeto
